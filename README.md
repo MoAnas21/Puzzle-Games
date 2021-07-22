@@ -1,4 +1,3 @@
 # Puzzle Games
-1.2048 Game
-2.Sudoku Solver
+2048 Game and Sudoku Solver
  
